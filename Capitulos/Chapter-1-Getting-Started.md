@@ -1,4 +1,4 @@
-# Gettin Staarted
+# 1. Gettin Staarted
 El primer capitulo contiene una introduccion a lo que es Go, su instalación, editores y un primer programa con el cual se explica brebemente la manera en que Go lee los codigos.
 
 #### 1. What is whitespace?
